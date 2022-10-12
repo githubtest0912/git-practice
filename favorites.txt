@@ -4,6 +4,7 @@ egg
 fried rice
 gobi manchurian
 parota
+<<<<<<< HEAD
 
 favourite movies
 =================
@@ -14,3 +15,6 @@ Thuppaki
 Vishwasam
 Diary
 
+=======
+chicken
+>>>>>>> foods
